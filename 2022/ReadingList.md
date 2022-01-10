@@ -3,7 +3,7 @@
 
 ## Nonfiction:
 
-  |         __Title__         |      __Author__      | __Start Date__ | __End Date__ |
-  | ------------------------- | -------------------  | -------------- | -----------  |
-  | *Thinking, Fast and Slow* | Daniel Kahneman      | 1-1-22         |              |
+  |         __Title__         |      __Author__      |
+  | ------------------------- | -------------------  |
+  | *Thinking, Fast and Slow* | Daniel Kahneman      |
   
