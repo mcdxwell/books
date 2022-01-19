@@ -8,3 +8,8 @@
   | *Thinking, Fast and Slow* | Daniel Kahneman                 |
   | *Noise: A Flaw in Human Judgment* | Daniel Kahneman, et al. |
   
+## Technical: 
+
+  |         __Title__         |      __Author__                 |
+  | ------------------------- | ------------------------------- |
+  | *Head First Go*           | Jay McGavren                    |
