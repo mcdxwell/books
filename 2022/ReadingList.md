@@ -1,16 +1,16 @@
-# __David's Reading List - 2022__
+# **David's Reading List - 2022**
 
 
 ## Non-fiction:
 
-  |         __Title__         |      __Author__                 |
+  |         **Title**         |      **Author**                 |
   | ------------------------- | ------------------------------- |
   | *Thinking, Fast and Slow* | Daniel Kahneman                 |
   | *Noise: A Flaw in Human Judgment* | Daniel Kahneman, et al. |
   
 ## Technical: 
 
-  |         __Title__          |      __Author__                 |
+  |         **Title**          |      **Author**                 |
   | -------------------------- | ------------------------------- |
   | *Head First Go*            | Jay McGavren                    |
   | *Linux Basics for Hackers* | OccupyTheWeb                    |
@@ -18,6 +18,6 @@
   | *Python Distilled*         | David M. Beazley                |
 
 ## Language:
-  |         __Title__         |      __Author__                 |
+  |         **Title**         |      **Author**                 |
   | ------------------------- | ------------------------------- |
   | *The Loom of Language*    | Frederick Bodmer                |
